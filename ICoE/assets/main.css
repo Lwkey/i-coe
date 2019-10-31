@@ -1,0 +1,46 @@
+body{
+    background-color: red;
+    font-family: arial;
+    background-image: url("bg.jpg"); 
+}
+
+.head-img{
+    background-image: url("rid.png");   
+    background-size: 100% 100%;
+}
+
+.input{
+    width:200px;
+    border:none;
+    border-bottom:2px solid red;
+    margin-top:-50px;
+}
+
+.content-head{
+    margin-top:110px;
+    color:red;
+    margin-bottom: 120px;
+    font-size: 20px;
+    padding-top:20px;
+    width:200px;
+}
+
+.btn{
+    text-decoration: none;
+    color:white;
+    width:180px;
+    height:25px;
+    background-color:red;
+    margin-top:10px;
+    font-size: 12px;
+    padding-top:10px;
+    font-weight: bold;
+    padding-top:10px;
+    border-radius: 50px;
+    outline:none;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
